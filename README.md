@@ -1,4 +1,4 @@
-# Blender Output Path Addon
+# Blender Modify Multiple Output Path Addon
 
 This Blender addon allows users to modify multiple output file path for rendering and compositing nodes easily.
 
